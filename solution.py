@@ -13,7 +13,3 @@ class Solution:
                     dp[j][i] = True
                     palindromes += 1
         return palindromes
-
-
-
-        
